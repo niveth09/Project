@@ -1,0 +1,23 @@
+{
+  "name": "localhost",
+  "version": "0.0.1",
+  "description": "login",
+  "scripts": {
+    "start": "node login.js"
+  },
+  "main": [
+    "login.js",
+    "page.js"
+  ],
+  "dependencies": {
+    "angular": "^1.8.0",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "express"
+  ],
+  "author": "nivetha rathnavel",
+  "license": "ISC"
+}
