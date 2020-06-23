@@ -7,7 +7,7 @@ var path = require("path");
 var connection = mysql.createConnection({
   host: "localhost",
   user: "root",
-  password: "Andrescp18",
+  password: "test",
   database: "nodelogin",
 });
 
